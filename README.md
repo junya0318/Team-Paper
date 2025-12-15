@@ -21,6 +21,5 @@ python -m dr_music.cli --seed 0 --tau 2
 
 ## Notes
 
-- `legacy/` contains the original files we extracted for reference.
 - This is **not** a full reproduction of the original training pipeline yet;
   it is the “minimum refactor” you can present in the final report.
